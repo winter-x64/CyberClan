@@ -1,11 +1,26 @@
 {
     "name": "cyber-clan",
     "displayName": "Cyber Clan",
+    "publisher": "winterx64",
     "description": "",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": " https://github.com/winter-x64/CyberClan"
+    },
     "engines": {
         "vscode": "^1.94.0"
     },
+    "keywords": [
+        "dark",
+        "dark theme",
+        "Cyber Clan",
+        "cyber",
+        "winter",
+        "WinterIsCoding",
+        "New theme",
+        "New Dark theme"
+    ],
     "categories": [
         "Themes"
     ],
