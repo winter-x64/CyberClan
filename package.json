@@ -1,0 +1,21 @@
+{
+    "name": "cyber-clan",
+    "displayName": "Cyber Clan",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.94.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyber Clan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyber Clan-color-theme.json"
+            }
+        ]
+    }
+}
