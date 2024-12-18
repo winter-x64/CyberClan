@@ -1790,7 +1790,7 @@
         }
     ],
     "colors": {
-        "quickInput.foreground": "#ffffff",
+        "quickInput.foreground": "#ececec",
         "quickInput.background": "#1c1c1c",
         "quickInputList.focusBackground": "#99fd4d",
         "quickInputList.focusIconForeground": "#000000",
@@ -1803,7 +1803,7 @@
         "activityBar.background": "#181818",
         "activityBar.activeBorder": "#99fd4d",
         "activityBar.inactiveForeground": "#ffffff66",
-        "activityBarBadge.foreground": "#ffffff",
+        "activityBarBadge.foreground": "#000000",
         "activityBarBadge.background": "#99fd4d",
         "activityBar.border": "#101010",
         "sideBar.background": "#181818",
